@@ -1,4 +1,4 @@
-service: kpu-graduation-iot-table-resources
+service: dku-opensource-car-self-check
 
 provider:
   name: aws
