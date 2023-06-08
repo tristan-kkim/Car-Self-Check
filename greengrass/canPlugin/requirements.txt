@@ -1,0 +1,4 @@
+greengrasssdk
+boto3
+requests
+python-can

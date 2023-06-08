@@ -1,0 +1,10 @@
+greengrasssdk
+boto3
+influxdb-client
+pandas
+flask==1.1.1
+flask-socketio==4.3.1
+flask-cors==3.0.8
+python-socketio==4.6.0
+python-engineio==3.13.2
+eventlet
