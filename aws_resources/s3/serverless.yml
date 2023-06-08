@@ -10,7 +10,7 @@ custom:
   custom.defaultStage: dev
 
 resources:
-  Description: "KPU graduation team's rawdata bucket for realtime car data !"
+  Description: "dku-opensource class car self check service with rawdata bucket for realtime car data !"
   Resources:
     rawDataBucket:
       Type: AWS::S3::Bucket
